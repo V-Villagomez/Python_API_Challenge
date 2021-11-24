@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Python API Challenge - What's the Weather Like?
 
 ## Analysis
 (1) Plotting the weather for November 22, 2021, was helpful in observing if a relationship exists between the latitude versus maximum temperature (F), humidity percentage, cloudiness percentage, and wind speed (mph), respectively. The data displayed a strong, non-linear relationshop between latitude and maximum temperature (F). We were able to see that the plot shows that the temperature is higher in the Southern Hemisphere during this time. All other plots showed that no relationship exists.  
