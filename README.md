@@ -1,5 +1,12 @@
 # Python API Homework - What's the Weather Like?
 
+## Analysis
+(1) Plotting the weather for November 22, 2021, was helpful in observing if a relationship exists between the latitude versus maximum temperature (F), humidity percentage, cloudiness percentage, and wind speed (mph), respectively. The data displayed a strong, non-linear relationshop between latitude and maximum temperature (F). We were able to see that the plot shows that the temperature is higher in the Southern Hemisphere during this time. All other plots showed that no relationship exists.  
+
+(2) Determing the Latitude Linear Regression for both the Northern and Southern Hemispheres for maximum temperature (F), humidity percentage, cloudiness percentage, and wind speed (mph), respecitvely, displayed that a correlation between Latitude Linear Regression and maximum temperature (F) is a good predictor in observing maximum temperatures (F) in cities at this time. Particularly, we were able to see a strong correlation between maximum temperature (F) and latitude in the Northern Hemisphere. All other elements displayed a weak correlation.   
+
+(3) Finally, there seems to be a trend of lower wind speed in miles per hour, below 10mph, in the majority of cities in the Northern Hemisphere at this time compared to cities in the Southern Hemisphere.
+
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
